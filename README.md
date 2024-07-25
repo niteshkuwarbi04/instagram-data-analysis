@@ -1,5 +1,8 @@
 # Instagram Data Analysis on Top 1,000 Instagram Influencers
 
+## Descriptions
+In this data analysis project, I utilized Python and its libraries within a Jupyter Notebook to examine the top 1000 most followed Instagram accounts. The analysis involved gathering and processing data to uncover insights about the followers, engagement rates, and content strategies of these popular accounts. Visualizations were created to highlight trends and patterns in the data.
+
 ## Problem/Ask
 What categories are the top Instagram influencers found in, specifically in the United States?
 
